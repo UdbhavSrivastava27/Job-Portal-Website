@@ -6,7 +6,7 @@ This is a dummy website project built using HTML, CSS, Bootstrap, and JavaScript
 ## Table of Contents
 - [Demo](#demo)
 - [Features](#features)
-- [Technologies Used](#technologies Used)
+- [Technologies Used](#technologiesUsed)
 - [Installation](#installation)
 
 - [Contributing](#contributing)
